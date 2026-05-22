@@ -18,6 +18,7 @@ The project focuses on analyzing:
 
 | Technology | Purpose |
 |---|---|
+| AWS IAM | Security and access anagement|
 | Python | ETL automation |
 | boto3 | AWS SDK for Python |
 | AWS S3 | Cloud storage |
